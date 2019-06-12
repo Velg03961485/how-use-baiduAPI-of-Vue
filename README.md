@@ -5,6 +5,11 @@
 # 在vue项目中使用baidu地图API
 
 
+
+![image](https://github.com/Velg03961485/how-use-baiduAPI-of-Vue/blob/master/img/ear.gif)
+
+
+
 ### 安装
 
 
